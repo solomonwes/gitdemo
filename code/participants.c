@@ -18,19 +18,8 @@ int
 main (int argc, char *argv[])
 {
   int i = 0;
-  printf ("%02d: Samuel A. Rebelsky\n", ++i);
-  printf ("%02d: Nicolas Knoebber\n", ++i);
-  printf ("%02d: Samee Zahid\n", ++i);
-  printf ("%02d: Alex Mitchell\n", ++i);
-  printf ("%02d: Toby Baratta\n", ++i);
-  printf ("%02d: Shaun S. Mataire\n", ++i);
-  printf ("%02d: Khoa Nguyen\n", ++i);
-  printf ("%02d: Zoe Wolter\n", ++i); 
-  printf ("%02d: Madeleine Hardt\n", ++i);
-  printf ("%02d: Halley Freger\n" , ++i);
-  printf ("%02d: Abby Stevens\n", ++i);
-  printf ("%02d: Noah Schlager\n", ++i);
-  printf ("%02d: Ezra Edgerton\n", ++i);
+  printf ("%02d: Joseph A. Abandoh-Sam\n", ++i);
+
 <<<<<<< HEAD
 =======
   printf ("%02d: Eve Lyons-Berg\n", ++i);
